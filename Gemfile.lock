@@ -114,7 +114,6 @@ GEM
     notiffany (0.0.6)
       nenv (~> 0.1)
       shellany (~> 0.0)
-    pg (0.18.1)
     polyglot (0.3.5)
     pry (0.10.1)
       coderay (~> 1.1.0)
@@ -241,7 +240,6 @@ DEPENDENCIES
   guard-rspec
   jbuilder (~> 2.0)
   jquery-rails
-  pg
   pry
   rails (= 4.1.4)
   rails_12factor
@@ -255,3 +253,6 @@ DEPENDENCIES
   sqlite3
   thin
   uglifier (>= 1.3.0)
+
+BUNDLED WITH
+   1.10.5
